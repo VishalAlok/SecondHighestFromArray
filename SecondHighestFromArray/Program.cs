@@ -21,7 +21,7 @@ namespace SecondHighestFromArray
                 else if (i > second)
                     second = i;
             }
-            System.Console.WriteLine(second);
+            Console.WriteLine(second);
         }
     }
 }
